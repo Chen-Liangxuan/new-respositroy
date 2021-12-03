@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+  /* Aesthetics */
+  
+=======
+>>>>>>> e726406de56a75c93400247fea1e0c2384f47210
   body {
     margin: 0;
     padding: 0;
@@ -109,7 +114,7 @@
   
   }
   
-  /*Layout*/
+  /* Desktop Layout */
   
   main {
     display: flex;
@@ -145,6 +150,10 @@
     max-width: 100%;
     max-height: 100%;
   }
+<<<<<<< HEAD
+
+=======
+>>>>>>> e726406de56a75c93400247fea1e0c2384f47210
   .BookedMid {
     text-align: center;
     font-size: medium;
@@ -182,11 +191,24 @@
   .logos {
     text-align: center;
   }
+<<<<<<< HEAD
+  
+  
+  .logoimg img{
+    display: flex;
+    width: 20%;
+    float: row;
+    padding: 2%;
+    align-items: center;
+  }
+  
+=======
   .logos img {
   
     width:250px;
     height:250px;
   }
+>>>>>>> e726406de56a75c93400247fea1e0c2384f47210
 
   .shows {
     display: block;
@@ -195,7 +217,11 @@
     text-align: center;
 }
 
+<<<<<<< HEAD
+/* Mobile Menu */
+=======
 /**/
+>>>>>>> e726406de56a75c93400247fea1e0c2384f47210
 
 .navbar {
   display: flex;
@@ -244,13 +270,59 @@
   color: #482ff7;
 }
 
+<<<<<<< HEAD
+/* Mobile View */
+
+@media only screen and (max-width: 768px) {
+  aside {
+    flex: 1;
+    margin-left: 10px;
+    padding: 1%;
+  }
+  
+  aside a {
+    display: block;
+    object-fit: cover;
+    flex-direction: column;
+    width: 100%;
+    height: 23%;
+  }
+  
+  aside img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+
+  .shows {
+    display: block;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+  }
+
+  .logoimg img{
+    display: flex;
+    width: 95%;
+    float: column;
+  }
+
+
+
+}
+
+=======
+>>>>>>> e726406de56a75c93400247fea1e0c2384f47210
 @media only screen and (max-width: 768px) {
   .nav-menu {
       position: fixed;
       left: -100%;
       top: 5rem;
       flex-direction: column;
+<<<<<<< HEAD
+      background-color: #a9a9a9;
+=======
       background-color: #fff;
+>>>>>>> e726406de56a75c93400247fea1e0c2384f47210
       width: 100%;
       border-radius: 10px;
       text-align: center;
