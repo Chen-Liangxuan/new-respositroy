@@ -1,24 +1,29 @@
 # new-respositroy
-This is a simple repositroy.
+ID Project
 
 Design Process
-Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+From a user standpoint, i would like to be able to find information on what i need easily and conviently.
 
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory) Include the Adobe XD wireframe as a folder. You can include the XD share url.
+Therefoore, I designed this website with the thoughts of the users who want to learn more about this band.
+This website allows users to easily navigate to the information pages they want and the pages and supplemented with either videos or pictures on the information they need.
+There are also instructions on how to use certain pages.
+I think the website is very user friendly and people can easily find what they want.
 
 Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+There is easy navigation to whatever page the user needs on desktop and mobile
+The text and images will rescale depending on the user's device
+There are easy to access links to videos and images relating to the band
+There is a contact page for users to contact members of the band
+
 
 Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+Clicking on certain images such as the shows or contact page will bring the users to the page they need.
+The website will rescale if the user is on a phone
 
 Features Left to Implement
-Another feature idea
+Sending direct feedback to the site owner without any staff.
+
 Technologies Used
 In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
 
@@ -38,10 +43,18 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
+html was used to put the information into seperate accessible pages for the users
+css was used to make the website look more formal, information and images to be organised and allows the user to navigate the pages easily with images/buttons
+java was ued to make the navigation button when the user is on a phone and to close the navigation bar when the user navigates to a different page
+
 Credits
 Content
-The text for section Y was copied from the Wikipedia article Z
+Most of the information and content were from Wikipedia
+https://en.wikipedia.org/wiki/The_Beatles
+
 Media
-The photos used in this site were obtained from ...
+The photos used in this site were obtained from google images and the Wikipedia page.
+
 Acknowledgements
-I received inspiration for this project from X
+I received inspiration for this project the official Beatles website.
+https://www.thebeatles.com/
